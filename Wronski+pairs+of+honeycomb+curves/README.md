@@ -15,10 +15,10 @@ That is, after `cd` into this directory, run the following
 julia  --project
 ```
 
-Afterwards, the data in Table 1 of the abovementioned paper can be
-reproduced by running the function `record_data_numeric(17,
-"<l_func>")` where `<l_func>` is `rho` for the left column and `min`
-for the second column.
+After then calling `using Honeycomb`, the data in Table 1 of the
+abovementioned paper can be reproduced by running the function
+`record_data_numeric(17, "<l_func>")` where `<l_func>` is `rho` for
+the left column and `min` for the second column.
 
 The data in Table 2 can be reproduced by running the function
 `record_data_solve(9, "<l_func>")` in a similar manner and the data
