@@ -22,7 +22,7 @@ The code implements or illustrates selected examples, exercises, and algorithms 
 
 ## Software
 
-Most Julia files use:
+The code mostly uses:
 
 - [Oscar.jl](https://www.oscar-system.org/) (v1.8.2) for commutative algebra, polyhedral geometry, toric varieties, and Gröbner-basis computations.
 
