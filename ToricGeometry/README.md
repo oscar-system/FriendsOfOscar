@@ -25,6 +25,9 @@ The code implements or illustrates selected examples, exercises, and algorithms 
 Most Julia files use:
 
 - [Oscar.jl](https://www.oscar-system.org/) (v1.8.2) for commutative algebra, polyhedral geometry, toric varieties, and Gröbner-basis computations.
+
+Chapter9.jl also uses: 
+
 - [HomotopyContinuation.jl](https://www.juliahomotopycontinuation.org/) (v2.22.4) for numerical solution of sparse polynomial systems in Chapter 9.
 
 The Macaulay2 files use several standard packages, including:
